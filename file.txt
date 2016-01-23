@@ -1,4 +1,4 @@
 Hello world,
 
-I'm dfeeling like a boss. 
+I'm feeling like a boss. 
 Been hacking git, and typing from Vim.
